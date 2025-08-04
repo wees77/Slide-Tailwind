@@ -2,7 +2,7 @@
 ![](./imgs/Preview.png)
 
 ## Projeto
-Site Pikachu
+Carossel Tailwind 
 
 ## Tecnologias
 * TailWind
