@@ -1,10 +1,10 @@
 # Slide-Tailwind
 ![](./imgs/Preview.png)
 
-Projeto
+## Projeto
 Site Pikachu
 
-Tecnologias
+## Tecnologias
 TailWind
 HTML
 GIT
